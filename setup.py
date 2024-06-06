@@ -4,11 +4,11 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="PassCron",
+    name="EniCrypt",
     version="0.0.1",
     author="Passpartoo",
     author_email="",
-    description="A package to automate the script launcher visualy (UX friendly)",
+    description="A package to encrypt file using the encryption method of the Enigma machine",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/Passpartoo/PassCron",
