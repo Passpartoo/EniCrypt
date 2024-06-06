@@ -1,3 +1,7 @@
-Interface graphique en Python (Tkinter) pour lancement automatisé de script Bash et PowerShell
+Algorithme de cryptographie inspiré de la machine Enigma à plusieurs rouleaux de Hash aléatoire.
 
-Python GUI (Tkinter) for automated launch of Bash and PowerShell scripts
+Cryptographic algorithm inspired by the Enigma machine with several reels of random Hash.
+
+#Todo
+
+Encoder Hash
