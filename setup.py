@@ -18,10 +18,9 @@ setuptools.setup(
         "xlrd==1.2.0",
         "XlsxWriter==1.2.6",
         "click==6.7",
-        "python-dotenv==0.10.3",
     ],
     classifiers=[
-        "Programming Language :: Python :: 3",
+        "Programming Language :: C#",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
